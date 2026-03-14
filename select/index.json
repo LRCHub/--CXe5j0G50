@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あるいは映画のような",
+  "base_artist": "yama",
+  "createdAt": "2026-03-14T14:07:19.918907Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あるいは映画のような",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_あるいは映画のような_yama.txt"
+    }
+  ]
+}
